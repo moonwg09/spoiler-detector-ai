@@ -99,10 +99,10 @@
 │   └── test_set_clean_200.csv  # 데모 시연에 사용된 200건의 기출문제 데이터
 ├── docs/                       # 발표 자료 및 시스템 아키텍처 이미지
 ├── notebooks/                  # 데이터 전처리 및 모델 학습 주피터 노트북
-│   ├── 1_data_preprocessing.ipynb
-│   ├── 2_gemma_pseudo_labeling.ipynb
-│   ├── 3_data_expansion_100k.ipynb
-│   └── 4_ensemble_model_training.ipynb
+│   ├── 1_spoiler_project_1단계.ipynb
+│   ├── 2_spoiler_project_2단계.ipynb
+│   ├── 3_spoiler_project_3단계.ipynb
+│   └── 4_spoiler_project_4단계.ipynb
 ├── src/                        # 실제 서비스 구동 핵심 코드
 │   └── app.py                  # Streamlit 웹 대시보드 실행 코드
 ├── .gitignore                  # 딥러닝 모델 등 대용량 파일 업로드 제외 설정
