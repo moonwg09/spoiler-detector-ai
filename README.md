@@ -16,12 +16,25 @@
 
 ---
 
-## 📺 Demo Video & UI
+## 📺 Demo Video
 > 이미지를 클릭하면 데모 영상(또는 배포 사이트)으로 이동합니다.
 
 | 단일 리뷰 정밀 분석 (XAI) | 실시간 대량 필터링 대시보드 |
 | :---: | :---: |
 | [![단일분석](https://img.shields.io/badge/UI-Single_Analysis-blue?style=for-the-badge)](링크주소) | [![대량분석](https://img.shields.io/badge/UI-Batch_Dashboard-green?style=for-the-badge)](링크주소) |
+
+---
+
+## 📸 Screenshots
+<details>
+<summary>👀 단일 리뷰 정밀 분석 (XAI) 스크린샷 펼치기/접기</summary>
+<img src="docs/image_1.png" alt="Single Analysis Screenshot">
+</details>
+
+<details>
+<summary>📊 실시간 대량 필터링 대시보드 스크린샷 펼치기/접기</summary>
+<img src="docs/image_0.png" alt="Batch Dashboard Screenshot">
+</details>
 
 * **단일 분석**: 3개의 AI 모델이 각각 분석한 위험도를 실시간 게이지 바(Progress Bar)로 시각화
 * **대량 분석**: CSV 파일 업로드 시 일괄 판독 후 파이 차트(Plotly)로 직관적인 통계 제공
